@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/React-Song-App/static/css/main.02cac630.chunk.css",
+    "main.js": "/React-Song-App/static/js/main.c05b1ea8.chunk.js",
+    "main.js.map": "/React-Song-App/static/js/main.c05b1ea8.chunk.js.map",
+    "runtime-main.js": "/React-Song-App/static/js/runtime-main.3595a30d.js",
+    "runtime-main.js.map": "/React-Song-App/static/js/runtime-main.3595a30d.js.map",
+    "static/js/2.bb7480b0.chunk.js": "/React-Song-App/static/js/2.bb7480b0.chunk.js",
+    "static/js/2.bb7480b0.chunk.js.map": "/React-Song-App/static/js/2.bb7480b0.chunk.js.map",
+    "static/js/3.7d037c68.chunk.js": "/React-Song-App/static/js/3.7d037c68.chunk.js",
+    "static/js/3.7d037c68.chunk.js.map": "/React-Song-App/static/js/3.7d037c68.chunk.js.map",
+    "index.html": "/React-Song-App/index.html",
+    "static/css/main.02cac630.chunk.css.map": "/React-Song-App/static/css/main.02cac630.chunk.css.map",
+    "static/js/2.bb7480b0.chunk.js.LICENSE.txt": "/React-Song-App/static/js/2.bb7480b0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3595a30d.js",
+    "static/js/2.bb7480b0.chunk.js",
+    "static/css/main.02cac630.chunk.css",
+    "static/js/main.c05b1ea8.chunk.js"
+  ]
+}
